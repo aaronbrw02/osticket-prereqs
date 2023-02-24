@@ -66,7 +66,7 @@ Register PHP from within IIS.
 <img src="https://i.imgur.com/J61cGoX.png"/>
 </p>
 <p>
-Download osTicket, extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket.
+Download osTicket, extract and copy “upload” folder to c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket".
 
 </p>
 <br />
