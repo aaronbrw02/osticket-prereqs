@@ -34,6 +34,14 @@ First go to virtual machines in Azure
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/T235zKA.png"/>
+</p>
+<p>
+Select create virtual machine
+</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/Lw8Wm3K.png"/>
