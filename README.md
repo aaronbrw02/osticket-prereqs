@@ -27,10 +27,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/0CQPTQl.png"/>
+</p>
+<p>
+First go to virtual machines in Azure
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/Lw8Wm3K.png"/>
 </p>
 <p>
-Create Virtual Machine in Azure
+Create Virtual Machine in Azure, selecting Windows 10
 </p>
 <br />
 
